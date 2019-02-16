@@ -1,0 +1,80 @@
+h1 {
+	color: yellow;
+	text-align: center;
+	font-family: 'Abril Fatface', cursive;
+	padding: 100px;
+	margin: 0;
+	border: none;
+	border-radius: 30px;
+}
+
+.vector img {
+	padding: 0 !important;
+
+}
+
+p{
+	color:red;
+	font-family: 'Open Sans', sans-serif;
+	} 
+	a{
+		text-decoration:none;
+	}
+	a:hover {
+		color: red;
+	}
+
+	body{
+		background: rgb(245,245,245);
+		color: black;
+		font-size: 20px;
+		font-family: 'Open Sans', sans-serif; 
+
+	}
+
+	h2 {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+
+	#banner {
+		font-size: 30px;
+		text-align: center;
+		background-image: url("https://images.unsplash.com/photo-1550236856-3827d4bc8045?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80");
+		padding: 200px;
+		background-size: cover;
+		text-shadow: 1px 1px 5px black;
+	}
+
+	#banner h1 {
+		color: White;
+		font-size: 70px;
+	}
+
+	#banner p {
+		color: whote; 
+		opacity: 0.9;
+		font-size: 20px;
+		font-weight: lighter;
+	}
+
+	#footer {
+		padding: 30px;
+		background-color: rgb(30,30,30);
+		color: lightgrey;
+	}
+
+	.section {
+		font-weight: lighter;
+	}
+
+	.header {
+		font-size: 50px;
+
+	}
+
+	div {
+		text-align: center;
+	}
